@@ -1,5 +1,5 @@
 # GIT个性化短地址
-curl -i http://git.io -F \
+####curl -i http://git.io -F \
 'url=https://...' \
 -F 'code=...'
 ***
